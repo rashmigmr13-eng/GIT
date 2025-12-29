@@ -1,0 +1,6 @@
+we are going to work on github
+1 git clone
+2 git merge
+3 git fetch
+4 git pull 
+5 branch strategy
